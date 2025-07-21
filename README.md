@@ -40,8 +40,8 @@ The SPN-CU supports encryption and decryption of 16-bit data using 32-bit keys w
 
 | Name         | Student ID |
 | ------------ | ---------- |
-| Hala Jebreel | 1210606    |
 | Diana Nasser | 1210363    |
+| Hala Jebreel | 1210606    |
 | Mayar Jafar  | 1210582    |
 
 Instructor: Dr. Ayman Hroub
